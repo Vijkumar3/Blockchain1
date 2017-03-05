@@ -1,0 +1,6 @@
+package xyz
+imprt "fmt"
+func main()
+{
+  fmt.printf("Hello first Go Program")
+  }
